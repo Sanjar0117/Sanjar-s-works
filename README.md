@@ -13,5 +13,5 @@ there is a project about bikeshare.py
 only python 
 
 ### Credits
-there is no links, bucause i am not impressed by any repos :) 
+there is no links, bucause i am not impressed by any repos
 
